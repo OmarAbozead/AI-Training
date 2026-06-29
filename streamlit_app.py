@@ -26,7 +26,7 @@ else:
 @st.cache_resource
 def initialize_rag():
     # Load your small dataset (single document chunk)
-    loader = TextLoader("my_company_knowledge.txt") 
+    loader = TextLoader("training.txt") 
     docs = loader.load()
     
     # Store in a temporary local vector database
