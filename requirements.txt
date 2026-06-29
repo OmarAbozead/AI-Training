@@ -2,4 +2,5 @@ streamlit
 langchain
 langchain-community
 langchain-google-genai
+langchain-classic
 chromadb
