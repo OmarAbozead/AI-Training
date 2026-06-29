@@ -1,0 +1,10 @@
+There is a family called abozead family
+It consists of 
+father: elsayed abozead
+mother: amany mohamed
+childrens: Ahmed -> 32 years old, Omar -> 30 years old, Habiba -> 17 years old
+Ahmed married Sahar and they have zein and noah, zein has 6 years old and noah has 2 years old
+Omar married mona and they have younis 4 years old
+Ahmed and Omar are mechatronics engineers gradauted from GUC
+Sahar and Mona are civil engineers graduated from suez canal university
+Habiba is a doctor, still student at faculty of medicine first year
